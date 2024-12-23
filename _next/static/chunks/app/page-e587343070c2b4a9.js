@@ -66,7 +66,7 @@
                                                                         (0, t.jsx)("span", {
                                                                             className: "px-2 cursor-pointer",
                                                                             children: (0, t.jsx)(o.default, {
-                                                                                href: "https://x.com/",
+                                                                                href: "https://x.com/Hexai_cc",
                                                                                 target: "_blank",
                                                                                 children: (0, t.jsx)("img", {
                                                                                     src: "".concat(
@@ -235,8 +235,7 @@
                                                 ),
                                                 alt: "logo",
                                                 className: "logo",
-                                            }) :
-                                            (0, t.jsx)("img", {
+                                            }) : (0, t.jsx)("img", {
                                                 src: "".concat(
                                                     "logoNoStretch.png"
                                                 ),
@@ -430,8 +429,7 @@
                                     (0, t.jsx)("div", {
                                         className: "marquee-".concat(s),
                                         children: null == a ?
-                                            void 0 :
-                                            a.map((e, a) =>
+                                            void 0 : a.map((e, a) =>
                                                 (0, t.jsx)(
                                                     "div", {
                                                         className: "image-group",
@@ -448,8 +446,7 @@
                                     (0, t.jsx)("div", {
                                         className: "marquee-".concat(s),
                                         children: null == a ?
-                                            void 0 :
-                                            a.map((e, a) =>
+                                            void 0 : a.map((e, a) =>
                                                 (0, t.jsx)(
                                                     "div", {
                                                         className: "image-group",
@@ -621,7 +618,7 @@
                                                         }),
                                                         (0, t.jsx)(o.default, {
                                                             className: "",
-                                                            href: "https://t.me/",
+                                                            href: "https://t.me/Hexai_cc",
                                                             target: "_blank",
                                                             children: (0, t.jsxs)("button", {
                                                                 className: "text-".concat(
@@ -776,8 +773,7 @@
                                                                                 direction: "rtl",
                                                                             }),
                                                                         }),
-                                                                    }) :
-                                                                    (0, t.jsx)(t.Fragment, {
+                                                                    }) : (0, t.jsx)(t.Fragment, {
                                                                         children: (0, t.jsx)("div", {
                                                                             className: "slider-container",
                                                                             children: (0, t.jsx)(d, {
@@ -814,8 +810,7 @@
                                                                                 direction: "ltr",
                                                                             }),
                                                                         }),
-                                                                    }) :
-                                                                    (0, t.jsx)(t.Fragment, {
+                                                                    }) : (0, t.jsx)(t.Fragment, {
                                                                         children: (0, t.jsx)("div", {
                                                                             className: "slider-container",
                                                                             children: (0, t.jsx)(d, {
@@ -1035,8 +1030,7 @@
                                                                         "$" +
                                                                         Number(
                                                                             null == l ? void 0 : l.price
-                                                                        ).toFixed(7) :
-                                                                        (0, t.jsx)("div", {
+                                                                        ).toFixed(7) : (0, t.jsx)("div", {
                                                                             className: "spinner-border fs-6 color-primary",
                                                                             role: "status",
                                                                             children: (0, t.jsx)("span", {
@@ -1058,8 +1052,7 @@
                                                                 (0, t.jsx)("h4", {
                                                                     className: "amount-txt mb-0 fs-lg-1",
                                                                     children: m ?
-                                                                        w(Number(m).toFixed(2)) :
-                                                                        (0, t.jsx)("div", {
+                                                                        w(Number(m).toFixed(2)) : (0, t.jsx)("div", {
                                                                             className: "spinner-border fs-6 color-primary",
                                                                             role: "status",
                                                                             children: (0, t.jsx)("span", {
@@ -1086,8 +1079,7 @@
                                                                             Number(
                                                                                 null == l ? void 0 : l.volume_24h
                                                                             ).toFixed(2)
-                                                                        ) :
-                                                                        (0, t.jsx)("div", {
+                                                                        ) : (0, t.jsx)("div", {
                                                                             className: "spinner-border fs-6 color-primary",
                                                                             role: "status",
                                                                             children: (0, t.jsx)("span", {
