@@ -17,7 +17,7 @@
                 s = () => {
                     let e = Date.now();
                     window.open(
-                        "https://dextools.io/app/en/ether/pair-explorer/0xppppppppppppppppppppppp?t=".concat(
+                        "https://dextools.io/app/en/ether/pair-explorer/0xa58900188f1e0a8ae5491a5531e9a2acace79d47?t=".concat(
                             e
                         ),
                         "_blank",
