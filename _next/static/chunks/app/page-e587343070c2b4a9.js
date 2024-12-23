@@ -156,7 +156,7 @@
                                         children: [
                                             (0, t.jsx)("p", {
                                                 className: "contract-address",
-                                                children: "Contract address: 0xtttttttttttttttttttttt",
+                                                children: "Contract address: 0xc3e11F390E86D9877EeA792EbEBe406b52a01bfe",
                                             }),
                                             (0, t.jsxs)("p", {
                                                 children: [
@@ -206,7 +206,7 @@
                 let l = (e) => {
                         e.preventDefault(),
                             window.open(
-                                "https://app.uniswap.org/explore/tokens/ethereum/0xttttttttttttttttttttttttttttttttt",
+                                "https://app.uniswap.org/explore/tokens/ethereum/0xc3e11F390E86D9877EeA792EbEBe406b52a01bfe",
                                 "_blank"
                             );
                     },
@@ -543,7 +543,7 @@
                 }, []);
                 let j = () => {
                     window.open(
-                        "https://app.uniswap.org/explore/tokens/ethereum/0xttttttttttttttttttttttttttttt",
+                        "https://app.uniswap.org/explore/tokens/ethereum/0xc3e11F390E86D9877EeA792EbEBe406b52a01bfe",
                         "_blank"
                     );
                 };
@@ -595,7 +595,7 @@
                                                     children: [
                                                         (0, t.jsx)(o.default, {
                                                             className: "",
-                                                            href: "https://etherscan.io/token/0xttttttttttttttttttttttt",
+                                                            href: "https://etherscan.io/token/0xc3e11F390E86D9877EeA792EbEBe406b52a01bfe",
                                                             target: "_blank",
                                                             children: (0, t.jsxs)("button", {
                                                                 className: "text-".concat(

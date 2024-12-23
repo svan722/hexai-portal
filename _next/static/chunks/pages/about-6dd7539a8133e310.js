@@ -353,7 +353,7 @@
                                                                 children: [
                                                                     (0, a.jsx)(m(), {
                                                                         className: "",
-                                                                        href: "https://etherscan.io/token/0xttttttttttttttttttttttttttt",
+                                                                        href: "https://etherscan.io/token/0xc3e11F390E86D9877EeA792EbEBe406b52a01bfe",
                                                                         target: "_blank",
                                                                         children: (0, a.jsxs)("button", {
                                                                             className: "orbitron-txt text-".concat(
@@ -1809,7 +1809,7 @@
                                                                 children: "Buy $HEXAI",
                                                             }),
                                                             (0, a.jsxs)(m(), {
-                                                                href: "https://app.uniswap.org/explore/tokens/ethereum/0xttttttttttttttttttttttttttttt",
+                                                                href: "https://app.uniswap.org/explore/tokens/ethereum/0xc3e11F390E86D9877EeA792EbEBe406b52a01bfe",
                                                                 target: "_blank",
                                                                 children: [
                                                                     (0, a.jsx)("video", {

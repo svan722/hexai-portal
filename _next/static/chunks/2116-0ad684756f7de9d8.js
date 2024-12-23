@@ -29,7 +29,7 @@
                 let r = (e) => {
                         e.preventDefault(),
                             window.open(
-                                "https://app.uniswap.org/explore/tokens/ethereum/0xtttttttttttttttttttttttttttttt",
+                                "https://app.uniswap.org/explore/tokens/ethereum/0xc3e11F390E86D9877EeA792EbEBe406b52a01bfe",
                                 "_blank"
                             );
                     },
@@ -388,7 +388,7 @@
                                             children: [
                                                 (0, s.jsx)("p", {
                                                     className: "contract-address",
-                                                    children: "Contract address: 0xttttttttttttt",
+                                                    children: "Contract address: 0xc3e11F390E86D9877EeA792EbEBe406b52a01bfe",
                                                 }),
                                                 (0, s.jsxs)("p", {
                                                     children: [

@@ -961,12 +961,12 @@
                         },
                         _ = (e) => {
                             if ("twiter" == e)
-                                window.open("https://x.com/OfficialHashAI", "_blank");
+                                window.open("https://x.com/Hexai_cc", "_blank");
                             else if ("telegram" == e)
                                 window.open("https://t.me/Hexai_cc", "_blank");
                             else if ("uniswap" == e)
                                 window.open(
-                                    "https://app.uniswap.org/explore/tokens/ethereum/0xttttttttttttttttttttt",
+                                    "https://app.uniswap.org/explore/tokens/ethereum/0xc3e11F390E86D9877EeA792EbEBe406b52a01bfe",
                                     "_blank"
                                 );
                             else {
@@ -1434,7 +1434,7 @@
                                                                                     className: "metrophobic-txt m-0 uniswap",
                                                                                     children: [
                                                                                         " ",
-                                                                                        "https://app.uniswap.org/explore/tokens/ethereum/0xttttttttttttttttttttttttttttttt",
+                                                                                        "https://app.uniswap.org/explore/tokens/ethereum/0xc3e11F390E86D9877EeA792EbEBe406b52a01bfe",
                                                                                     ],
                                                                                 }),
                                                                             ],
@@ -1601,7 +1601,7 @@
                                                                         }),
                                                                         (0, o.jsx)("p", {
                                                                             className: "metrophobic-txt m-0 uniswap",
-                                                                            children: "https://app.uniswap.org/explore/tokens/ethereum/0xtttttttttttttttttttttttttttt",
+                                                                            children: "https://app.uniswap.org/explore/tokens/ethereum/0xc3e11F390E86D9877EeA792EbEBe406b52a01bfe",
                                                                         }),
                                                                     ],
                                                                 }),

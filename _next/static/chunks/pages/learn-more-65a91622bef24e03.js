@@ -357,7 +357,7 @@ and limitations under the License.
             X = (e) => {
               e.preventDefault(),
                 window.open(
-                  "https://app.uniswap.org/explore/tokens/ethereum/0xtttttttttttttttttttttttt",
+                  "https://app.uniswap.org/explore/tokens/ethereum/0xc3e11F390E86D9877EeA792EbEBe406b52a01bfe",
                   "_blank"
                 );
             };
@@ -650,7 +650,7 @@ and limitations under the License.
                                   className:
                                     "token-end-sec-txt metrophobic-txt",
                                   children:
-                                    "\xa00xtttttttttttttttttttttt",
+                                    "\xa00xc3e11F390E86D9877EeA792EbEBe406b52a01bfe",
                                 }),
                               ],
                             }),
