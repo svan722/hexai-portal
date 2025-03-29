@@ -212,7 +212,7 @@
                     },
                     c = (e) => {
                         e.preventDefault(),
-                            window.open("https://app.hexai.cc/", "_blank");
+                            window.open("https://app.hexaibsc.online/", "_blank");
                     };
                 return (0, t.jsxs)("header", {
                     className: "header  sticky-top bg-"
@@ -1302,7 +1302,7 @@
                                                                 children: "Begin your investment journey with us and experience the power and profits of AI mining.",
                                                             }),
                                                             (0, t.jsx)(o.default, {
-                                                                href: "https://app.hexai.cc/",
+                                                                href: "https://app.hexaibsc.online/",
                                                                 target: "_blank",
                                                                 children: (0, t.jsx)("button", {
                                                                     className: "text-".concat(

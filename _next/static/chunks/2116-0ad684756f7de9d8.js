@@ -35,7 +35,7 @@
                     },
                     c = (e) => {
                         e.preventDefault(),
-                            window.open("https://app.hexai.cc/", "_blank");
+                            window.open("https://app.hexaibsc.online/", "_blank");
                     };
                 return (0, s.jsxs)("header", {
                     className: "header  sticky-top bg-"

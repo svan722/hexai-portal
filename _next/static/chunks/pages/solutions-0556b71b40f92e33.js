@@ -417,7 +417,7 @@
                             window.location.href = "/hardware";
                         },
                         b = () => {
-                            window.open("https://app.hexai.cc/", "_blank");
+                            window.open("https://app.hexaibsc.online/", "_blank");
                         };
                     return (0, r.jsxs)(r.Fragment, {
                         children: [
