@@ -66,7 +66,7 @@
                                                                         (0, t.jsx)("span", {
                                                                             className: "px-2 cursor-pointer",
                                                                             children: (0, t.jsx)(o.default, {
-                                                                                href: "https://x.com/Hexai_cc",
+                                                                                href: "https://x.com/hexai_bnb",
                                                                                 target: "_blank",
                                                                                 children: (0, t.jsx)("img", {
                                                                                     src: "".concat(
@@ -609,7 +609,7 @@
                                                         }),
                                                         (0, t.jsx)(o.default, {
                                                             className: "",
-                                                            href: "https://t.me/Hexai_cc",
+                                                            href: "https://t.me/hexai_bnb",
                                                             target: "_blank",
                                                             children: (0, t.jsxs)("button", {
                                                                 className: "text-".concat(

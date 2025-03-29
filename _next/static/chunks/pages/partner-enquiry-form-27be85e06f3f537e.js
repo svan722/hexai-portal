@@ -1961,7 +1961,7 @@
                                                             className: "d-flex flex-column text-center align-items-center justify-content-center",
                                                             children: [
                                                                 (0, t.jsx)(d(), {
-                                                                    href: "https://x.com/Hexai_cc",
+                                                                    href: "https://x.com/hexai_bnb",
                                                                     target: "_blank",
                                                                     children: (0, t.jsx)("img", {
                                                                         src: "".concat(
@@ -1974,7 +1974,7 @@
                                                                     }),
                                                                 }),
                                                                 (0, t.jsx)(d(), {
-                                                                    href: "https://t.me/Hexai_cc",
+                                                                    href: "https://t.me/hexai_bnb",
                                                                     target: "_blank",
                                                                     children: (0, t.jsx)("img", {
                                                                         src: "".concat(

@@ -961,9 +961,9 @@
                         },
                         _ = (e) => {
                             if ("twiter" == e)
-                                window.open("https://x.com/Hexai_cc", "_blank");
+                                window.open("https://x.com/hexai_bnb", "_blank");
                             else if ("telegram" == e)
-                                window.open("https://t.me/Hexai_cc", "_blank");
+                                window.open("https://t.me/hexai_bnb", "_blank");
                             else if ("uniswap" == e)
                                 window.open(
                                     "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoontoken",

@@ -120,7 +120,7 @@
                 X = [{
                         role: "CEO & Co Founder",
                         name: "Adam",
-                        twitterLink: "https://x.com/Hexai_cc",
+                        twitterLink: "https://x.com/hexai_bnb",
                         instagramLink: "",
                         linkdinLink: "",
                         content: "Adam has been immersed in the cryptocurrency world for many years, building on a foundational experience in Bitcoin mining. Over this period, Adam has established a strong reputation as a leading marketing strategist and advisor in the crypto space. Leveraging his extensive knowledge and network, he has successfully guided numerous projects through their launch strategies and provided ongoing advisory services. His expertise in connecting teams with the right marketing resources has significantly enhanced their visibility and attracted investment, ultimately boosting the overall valuation of their projects.",
@@ -128,7 +128,7 @@
                     {
                         role: "CTO & Co-Founder",
                         name: "Irun",
-                        twitterLink: "https://x.com/Hexai_cc",
+                        twitterLink: "https://x.com/hexai_bnb",
                         instagramLink: "",
                         linkdinLink: "",
                         content: "Irun is a seasoned engineer with a robust background in mechanical and electrical engineering, now making significant strides in the cryptocurrency mining industry. His journey began with a masters degree in engineering, where he developed a keen interest in emerging technologies and their applications. Transitioning into the world of cryptocurrency, Irun applied his engineering expertise to optimise mining operations, focusing on enhancing hardware performance and reducing energy consumption. He ran a successful company producing and selling mining rigs over the last 6 years, distributing rigs all over the world. Irun is dedicated to advancing the industry through cutting-edge solutions as demonstrated at Hex AI.",
@@ -136,7 +136,7 @@
                     {
                         role: "CMO & Co-Founder",
                         name: "Andy",
-                        twitterLink: "https://x.com/Hexai_cc",
+                        twitterLink: "https://x.com/hexai_bnb",
                         instagramLink: "",
                         linkdinLink: "",
                         content: "Since discovering cryptocurrency in 2020 through Instagram, Andy has been deeply involved in the industry. After joining a project’s Telegram group and conducting thorough research, Andy quickly became an active and enthusiastic participant. This dedication led to an offer for a role as a moderator. Through effective networking, Andy transitioned to other projects and expanded into marketing. Over the past 3.5 years, Andy has worked with protocols such as Squidgrow and Befe, contributing to their significant market cap growth. The natural progression of Andy’s career culminated in Co-founding Hex AI, marking the beginning of an exciting new journey.",
@@ -367,7 +367,7 @@
                                                                     }),
                                                                     (0, a.jsx)(m(), {
                                                                         className: "",
-                                                                        href: "https://t.me/Hexai_cc",
+                                                                        href: "https://t.me/hexai_bnb",
                                                                         target: "_blank",
                                                                         children: (0, a.jsxs)("button", {
                                                                             className: "orbitron-txt text-".concat(

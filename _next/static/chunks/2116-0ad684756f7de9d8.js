@@ -272,7 +272,7 @@
                                                                             (0, s.jsx)("span", {
                                                                                 className: "px-2 cursor-pointer",
                                                                                 children: (0, s.jsx)(l(), {
-                                                                                    href: "https://x.com/Hexai_cc",
+                                                                                    href: "https://x.com/hexai_bnb",
                                                                                     target: "_blank",
                                                                                     children: (0, s.jsx)("img", {
                                                                                         src: "".concat(
