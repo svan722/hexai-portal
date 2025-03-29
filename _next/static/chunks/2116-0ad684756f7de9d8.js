@@ -29,7 +29,7 @@
                 let r = (e) => {
                         e.preventDefault(),
                             window.open(
-                                "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoontoken",
+                                "https://pancakeswap.finance/swap?outputCurrency=0x75608340AE4A84f5C142628D2d0285b60F6e745b",
                                 "_blank"
                             );
                     },
@@ -223,7 +223,7 @@
                     t = () => {
                         let e = Date.now();
                         window.open(
-                            "https://dextools.io/app/en/bnb/pair-explorer/0xcomingsoontoken?t=".concat(
+                            "https://dextools.io/app/en/bnb/pair-explorer/0x75608340AE4A84f5C142628D2d0285b60F6e745b?t=".concat(
                                 e
                             ),
                             "_blank",
@@ -388,7 +388,7 @@
                                             children: [
                                                 (0, s.jsx)("p", {
                                                     className: "contract-address",
-                                                    children: "Contract address: 0xcomingsoontoken",
+                                                    children: "Contract address: 0x75608340AE4A84f5C142628D2d0285b60F6e745b",
                                                 }),
                                                 (0, s.jsxs)("p", {
                                                     children: [

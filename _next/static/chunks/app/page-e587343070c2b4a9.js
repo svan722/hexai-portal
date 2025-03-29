@@ -17,7 +17,7 @@
                 s = () => {
                     let e = Date.now();
                     window.open(
-                        "https://dextools.io/app/en/bnb/pair-explorer/0xcomingsoontoken?t=".concat(
+                        "https://dextools.io/app/en/bnb/pair-explorer/0x75608340AE4A84f5C142628D2d0285b60F6e745b?t=".concat(
                             e
                         ),
                         "_blank",
@@ -156,7 +156,7 @@
                                         children: [
                                             (0, t.jsx)("p", {
                                                 className: "contract-address",
-                                                children: "Contract address: 0xcomingsoontoken",
+                                                children: "Contract address: 0x75608340AE4A84f5C142628D2d0285b60F6e745b",
                                             }),
                                             (0, t.jsxs)("p", {
                                                 children: [
@@ -206,7 +206,7 @@
                 let l = (e) => {
                         e.preventDefault(),
                             window.open(
-                                "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoontoken",
+                                "https://pancakeswap.finance/swap?outputCurrency=0x75608340AE4A84f5C142628D2d0285b60F6e745b",
                                 "_blank"
                             );
                     },
@@ -543,7 +543,7 @@
                 }, []);
                 let j = () => {
                     window.open(
-                        "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoontoken",
+                        "https://pancakeswap.finance/swap?outputCurrency=0x75608340AE4A84f5C142628D2d0285b60F6e745b",
                         "_blank"
                     );
                 };
@@ -595,7 +595,7 @@
                                                     children: [
                                                         (0, t.jsx)(o.default, {
                                                             className: "",
-                                                            href: "https://bscscan.com/token/0xcomingsoontoken",
+                                                            href: "https://bscscan.com/token/0x75608340AE4A84f5C142628D2d0285b60F6e745b",
                                                             target: "_blank",
                                                             children: (0, t.jsxs)("button", {
                                                                 className: "text-".concat(

@@ -966,13 +966,13 @@
                                 window.open("https://t.me/hexai_bnb", "_blank");
                             else if ("uniswap" == e)
                                 window.open(
-                                    "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoontoken",
+                                    "https://pancakeswap.finance/swap?outputCurrency=0x75608340AE4A84f5C142628D2d0285b60F6e745b",
                                     "_blank"
                                 );
                             else {
                                 let e = Date.now();
                                 window.open(
-                                    "https://www.dextools.io/app/en/bnb/pair-explorer/0xcomingsoontoken?t=".concat(
+                                    "https://www.dextools.io/app/en/bnb/pair-explorer/0x75608340AE4A84f5C142628D2d0285b60F6e745b?t=".concat(
                                         e
                                     ),
                                     "_blank",
@@ -1434,7 +1434,7 @@
                                                                                     className: "metrophobic-txt m-0 uniswap",
                                                                                     children: [
                                                                                         " ",
-                                                                                        "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoontoken",
+                                                                                        "https://pancakeswap.finance/swap?outputCurrency=0x75608340AE4A84f5C142628D2d0285b60F6e745b",
                                                                                     ],
                                                                                 }),
                                                                             ],
@@ -1601,7 +1601,7 @@
                                                                         }),
                                                                         (0, o.jsx)("p", {
                                                                             className: "metrophobic-txt m-0 uniswap",
-                                                                            children: "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoontoken",
+                                                                            children: "https://pancakeswap.finance/swap?outputCurrency=0x75608340AE4A84f5C142628D2d0285b60F6e745b",
                                                                         }),
                                                                     ],
                                                                 }),

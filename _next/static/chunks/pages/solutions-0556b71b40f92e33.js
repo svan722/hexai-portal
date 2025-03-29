@@ -406,7 +406,7 @@
                     }, [d]);
                     let w = () => {
                             window.open(
-                                "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoontoken",
+                                "https://pancakeswap.finance/swap?outputCurrency=0x75608340AE4A84f5C142628D2d0285b60F6e745b",
                                 "_blank"
                             );
                         },

@@ -357,7 +357,7 @@ and limitations under the License.
             X = (e) => {
               e.preventDefault(),
                 window.open(
-                  "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoontoken",
+                  "https://pancakeswap.finance/swap?outputCurrency=0x75608340AE4A84f5C142628D2d0285b60F6e745b",
                   "_blank"
                 );
             };
@@ -650,7 +650,7 @@ and limitations under the License.
                                   className:
                                     "token-end-sec-txt metrophobic-txt",
                                   children:
-                                    "\xa00xcomingsoontoken",
+                                    "\xa00x75608340AE4A84f5C142628D2d0285b60F6e745b",
                                 }),
                               ],
                             }),

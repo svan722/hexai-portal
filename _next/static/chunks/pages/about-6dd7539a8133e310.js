@@ -353,7 +353,7 @@
                                                                 children: [
                                                                     (0, a.jsx)(m(), {
                                                                         className: "",
-                                                                        href: "https://bscscan.com/token/0xcomingsoontoken",
+                                                                        href: "https://bscscan.com/token/0x75608340AE4A84f5C142628D2d0285b60F6e745b",
                                                                         target: "_blank",
                                                                         children: (0, a.jsxs)("button", {
                                                                             className: "orbitron-txt text-".concat(
@@ -1799,7 +1799,7 @@
                                                                 children: "Buy $HEXAI",
                                                             }),
                                                             (0, a.jsxs)(m(), {
-                                                                href: "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoontoken",
+                                                                href: "https://pancakeswap.finance/swap?outputCurrency=0x75608340AE4A84f5C142628D2d0285b60F6e745b",
                                                                 target: "_blank",
                                                                 children: [
                                                                     (0, a.jsx)("video", {
