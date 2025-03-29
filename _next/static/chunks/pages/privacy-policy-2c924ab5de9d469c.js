@@ -78,7 +78,7 @@
                                   children: [
                                     "Hex AI Privacy Policy",
                                     (0, i.jsx)("br", {}),
-                                    "Effective Date: July 2024",
+                                    "Effective Date: July 2025",
                                   ],
                                 }),
                                 (0, i.jsxs)("p", {

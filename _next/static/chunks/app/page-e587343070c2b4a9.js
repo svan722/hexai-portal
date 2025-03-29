@@ -17,7 +17,7 @@
                 s = () => {
                     let e = Date.now();
                     window.open(
-                        "https://dextools.io/app/en/ether/pair-explorer/0xa58900188f1e0a8ae5491a5531e9a2acace79d47?t=".concat(
+                        "https://dextools.io/app/en/bnb/pair-explorer/0xcomingsoontoken?t=".concat(
                             e
                         ),
                         "_blank",
@@ -156,7 +156,7 @@
                                         children: [
                                             (0, t.jsx)("p", {
                                                 className: "contract-address",
-                                                children: "Contract address: 0xc3e11F390E86D9877EeA792EbEBe406b52a01bfe",
+                                                children: "Contract address: 0xcomingsoontoken",
                                             }),
                                             (0, t.jsxs)("p", {
                                                 children: [
@@ -168,7 +168,7 @@
                                                         children: "HexAI.",
                                                     }),
                                                     " ",
-                                                    "2024, All rights reserved.",
+                                                    "2025, All rights reserved.",
                                                 ],
                                             }),
                                         ],
@@ -206,7 +206,7 @@
                 let l = (e) => {
                         e.preventDefault(),
                             window.open(
-                                "https://app.uniswap.org/explore/tokens/ethereum/0xc3e11F390E86D9877EeA792EbEBe406b52a01bfe",
+                                "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoontoken",
                                 "_blank"
                             );
                     },
@@ -543,7 +543,7 @@
                 }, []);
                 let j = () => {
                     window.open(
-                        "https://app.uniswap.org/explore/tokens/ethereum/0xc3e11F390E86D9877EeA792EbEBe406b52a01bfe",
+                        "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoontoken",
                         "_blank"
                     );
                 };
@@ -595,7 +595,7 @@
                                                     children: [
                                                         (0, t.jsx)(o.default, {
                                                             className: "",
-                                                            href: "https://etherscan.io/token/0xc3e11F390E86D9877EeA792EbEBe406b52a01bfe",
+                                                            href: "https://bscscan.com/token/0xcomingsoontoken",
                                                             target: "_blank",
                                                             children: (0, t.jsxs)("button", {
                                                                 className: "text-".concat(
@@ -603,15 +603,6 @@
                                                                     " custom-btn"
                                                                 ),
                                                                 children: [
-                                                                    (0, t.jsx)("img", {
-                                                                        src: "".concat(
-                                                                            "https://hashai.s3.eu-west-2.amazonaws.com/storage/home/contract-img.svg"
-                                                                        ),
-                                                                        alt: "contract-img",
-                                                                        height: "36px",
-                                                                        width: "36px",
-                                                                        unoptimized: !0,
-                                                                    }),
                                                                     "Contract",
                                                                 ],
                                                             }),

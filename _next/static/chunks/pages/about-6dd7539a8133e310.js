@@ -353,7 +353,7 @@
                                                                 children: [
                                                                     (0, a.jsx)(m(), {
                                                                         className: "",
-                                                                        href: "https://etherscan.io/token/0xc3e11F390E86D9877EeA792EbEBe406b52a01bfe",
+                                                                        href: "https://bscscan.com/token/0xcomingsoontoken",
                                                                         target: "_blank",
                                                                         children: (0, a.jsxs)("button", {
                                                                             className: "orbitron-txt text-".concat(
@@ -361,16 +361,6 @@
                                                                                 " custom-btn"
                                                                             ),
                                                                             children: [
-                                                                                (0, a.jsx)("img", {
-                                                                                    src: "".concat(
-                                                                                        "https://hashai.s3.eu-west-2.amazonaws.com/storage/about/contract-img.svg"
-                                                                                    ),
-                                                                                    alt: "contract-img",
-                                                                                    height: "36px",
-                                                                                    width: "36px",
-                                                                                    unoptimized: !0,
-                                                                                }),
-                                                                                " ",
                                                                                 "Contract",
                                                                             ],
                                                                         }),
@@ -1809,7 +1799,7 @@
                                                                 children: "Buy $HEXAI",
                                                             }),
                                                             (0, a.jsxs)(m(), {
-                                                                href: "https://app.uniswap.org/explore/tokens/ethereum/0xc3e11F390E86D9877EeA792EbEBe406b52a01bfe",
+                                                                href: "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoontoken",
                                                                 target: "_blank",
                                                                 children: [
                                                                     (0, a.jsx)("video", {

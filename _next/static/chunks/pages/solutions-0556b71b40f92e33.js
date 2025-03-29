@@ -406,7 +406,7 @@
                     }, [d]);
                     let w = () => {
                             window.open(
-                                "https://app.uniswap.org/explore/tokens/ethereum/0xc3e11F390E86D9877EeA792EbEBe406b52a01bfe",
+                                "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoontoken",
                                 "_blank"
                             );
                         },

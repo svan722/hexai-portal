@@ -357,7 +357,7 @@ and limitations under the License.
             X = (e) => {
               e.preventDefault(),
                 window.open(
-                  "https://app.uniswap.org/explore/tokens/ethereum/0xc3e11F390E86D9877EeA792EbEBe406b52a01bfe",
+                  "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoontoken",
                   "_blank"
                 );
             };
@@ -615,7 +615,7 @@ and limitations under the License.
                                             className:
                                               "token-value orbitron-txt m-0",
                                             children:
-                                              "100 000 000",
+                                              "1 000 000 000",
                                           }),
                                           (0, a.jsx)("span", {
                                             className:
@@ -650,7 +650,7 @@ and limitations under the License.
                                   className:
                                     "token-end-sec-txt metrophobic-txt",
                                   children:
-                                    "\xa00xc3e11F390E86D9877EeA792EbEBe406b52a01bfe",
+                                    "\xa00xcomingsoontoken",
                                 }),
                               ],
                             }),
